@@ -19,8 +19,6 @@ import * as reducer from './reducer'
   Link
 } from "react-router-dom";
 
-
-
 const initilState = {
   uname: '',
   pass: ""
